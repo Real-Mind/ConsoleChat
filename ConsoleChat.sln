@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleChat", "ConsoleChat\ConsoleChat.vcxproj", "{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Debug|x64.ActiveCfg = Debug|x64
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Debug|x64.Build.0 = Debug|x64
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Debug|x86.Build.0 = Debug|Win32
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Release|x64.ActiveCfg = Release|x64
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Release|x64.Build.0 = Release|x64
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Release|x86.ActiveCfg = Release|Win32
+		{8688DC8F-5587-4A72-8BD2-DA1BBB9C061E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A35C36E7-6030-418C-BAE7-EE03BD6E8AFB}
+	EndGlobalSection
+EndGlobal
